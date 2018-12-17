@@ -12,7 +12,7 @@
 | /api/chickens/:id    | PUT       | Update a chicken       |
 | /api/chickens/:id    | DELETE    | Delete a chicken       |
 
-##Contents
+## Contents
 
 *Project setup
 
@@ -22,7 +22,7 @@
 
 *Queries
 
-##Project setup
+## Project setup
 Make sure your have installed nodejs and npm
 `ref to https://nodejs.org/en/`
 
