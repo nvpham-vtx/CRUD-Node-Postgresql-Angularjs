@@ -2,7 +2,7 @@
 
 ## Guideline create a RESTful web service with backend [Node, Express, pg-promise], database [Postgres], fontend [Angularjs]
 
-* Our app will include the following endpoints: *
+*Our app will include the following endpoints:*
 
 | URL                  | HTTP Verb | Action                 |
 |----------------------|-----------|------------------------|
