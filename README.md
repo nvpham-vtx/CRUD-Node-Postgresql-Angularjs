@@ -12,3 +12,11 @@
 | /api/chickens/:id    | put       | Update a chicken       |
 | /api/chickens/:id    | delete    | Delete a chicken       |
 
+##Contents
+*Project setup
+*Postgres setup
+*Routes
+*Queries
+
+Make sure your have installed nodejs and npm
+`ref to https://nodejs.org/en/`
