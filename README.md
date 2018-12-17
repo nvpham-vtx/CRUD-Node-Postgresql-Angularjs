@@ -1,1 +1,0 @@
-# CRUD-Node-Postgresql-Angularjs
