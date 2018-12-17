@@ -6,11 +6,11 @@
 
 | URL                  | HTTP Verb | Action                 |
 |----------------------|-----------|------------------------|
-| /api/chickens        | get       | Return ALL chicken     |
-| /api/chickens/:id    | get 	   | Return a SINGLE chicken|
-| /api/chickens        | post      | Add a chicken          |
-| /api/chickens/:id    | put       | Update a chicken       |
-| /api/chickens/:id    | delete    | Delete a chicken       |
+| /api/chickens        | GET       | Return ALL chicken     |
+| /api/chickens/:id    | GET 	   | Return a SINGLE chicken|
+| /api/chickens        | POST      | Add a chicken          |
+| /api/chickens/:id    | PUT       | Update a chicken       |
+| /api/chickens/:id    | DELETE    | Delete a chicken       |
 
 ##Contents
 *Project setup
