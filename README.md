@@ -64,10 +64,13 @@ server.listen(app.get("port"), () =>{
 ```
 
 ## Postgres setup
+
 - Create file database.js in folder server (./server)
+
 ```exports.connectDatabase = "postgres://user:password@localhost:port/database_name"
 user: postgres
-password: create when setup Postgresql```
+password: create when setup Postgresql
+```
 
 - Create table chickens.
 Create file chicken.sql:
