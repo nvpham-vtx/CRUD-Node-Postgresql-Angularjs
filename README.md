@@ -34,7 +34,9 @@ Make sure your have installed nodejs and npm
 6. npm install bluebird
 
 `Why use [bluebird](https://github.com/petkaantonov/bluebird) ?`
+
 `Bluebird is a Promise/A+ compliant lib.`
+
 `Speed processing: very high`
 
 
