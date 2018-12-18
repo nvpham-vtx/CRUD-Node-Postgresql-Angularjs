@@ -1,6 +1,6 @@
 # CRUD-Node-Postgresql-Angularjs
 
-## Guideline create a RESTful web service with backend [Node, Express, pg-promise], database [Postgres], fontend [Angularjs]
+## Guideline create a RESTful web service with backend [Node](https://nodejs.org/docs/latest-v9.x/api/), [Express](http://expressjs.com/en/starter/installing.html), pg-promise], database [Postgres](https://www.postgresql.org/docs/11/index.html), fontend [Angularjs](https://docs.angularjs.org/guide)
 
 *Our app will include the following endpoints:*
 
