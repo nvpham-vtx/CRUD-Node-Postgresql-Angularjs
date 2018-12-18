@@ -14,13 +14,13 @@
 
 ## Contents
 
-*Project setup
+* Project setup
 
-*Postgres setup
+* Postgres setup
 
-*Routes
+* Routes
 
-*Queries
+* Queries
 
 ## Project setup
 Make sure your have installed nodejs and npm
@@ -38,6 +38,5 @@ npm install pg-promise
 
 npm install bluebird
 
-*Note*: Bluebird is a Promise/A+ compliant lib.
-
-		Speed processing: very high
+Bluebird is a Promise/A+ compliant lib.
+Speed processing: very high
