@@ -42,7 +42,8 @@ Make sure your have installed nodejs and npm
 ## Create Server
 - Create file app.js in root.
 
-```var express = require("express");
+```
+var express = require("express");
 var bodyParser = require("body-parser");
 var http = require("http");
 var routes = require("./router/router");
@@ -67,14 +68,17 @@ server.listen(app.get("port"), () =>{
 
 - Create file database.js in folder server (./server)
 
-```exports.connectDatabase = "postgres://user:password@localhost:port/database_name"
+``` 
+exports.connectDatabase = "postgres://user:password@localhost:port/database_name"
 user: postgres
 password: create when setup Postgresql
 ```
 
 - Create table chickens.
 Create file chicken.sql:
-```DROP DATABASE IF EXISTS chickens;
+
+```
+DROP DATABASE IF EXISTS chickens;
 CREATE DATABASE chickens TEMPLATE template1;
 
 \c chickens;
