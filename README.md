@@ -33,8 +33,8 @@ Make sure your have installed nodejs and npm
 5. npm install pg-promise
 6. npm install bluebird
 
-`Why use [bluebird](https://github.com/petkaantonov/bluebird) ?`
-[Github](https://github.com)
+`Why use` [bluebird](https://github.com/petkaantonov/bluebird) `?`
+
 `Bluebird is a Promise/A+ compliant lib.`
 
 `Speed processing: very high`
