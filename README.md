@@ -186,6 +186,7 @@ module.exports = {
 
 ## Routes
 
+Create file router.js in folder router (./router)
 ```
 var express = require("express");
 var router = express.Router();
