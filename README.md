@@ -60,10 +60,11 @@ var server = http.createServer(app);
 
 server.listen(app.get("port"), () =>{
     console.log("Listen port " + app.get("port"));
-})```
+})
+```
 
 ## Postgres setup
-- Create file database.js
+- Create file database.js in folder server (./server)
 ```exports.connectDatabase = "postgres://user:password@localhost:port/database_name"
 user: postgres
 password: create when setup Postgresql```
