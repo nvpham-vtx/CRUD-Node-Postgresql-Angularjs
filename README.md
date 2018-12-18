@@ -6,8 +6,8 @@
 
 | URL                  | HTTP Verb | Action                 |
 |----------------------|-----------|------------------------|
-| /api/chickens        | GET       | Return ALL chicken     |
-| /api/chickens/:id    | GET 	   | Return a SINGLE chicken|
+| /api/chickens        | GET       | Return all chicken     |
+| /api/chickens/:id    | GET 	   | Return a single chicken|
 | /api/chickens        | POST      | Add a chicken          |
 | /api/chickens/:id    | PUT       | Update a chicken       |
 | /api/chickens/:id    | DELETE    | Delete a chicken       |
@@ -26,23 +26,18 @@
 Make sure your have installed nodejs and npm
 `ref to https://nodejs.org/en/`
 
-- mkdir myapp
+1. mkdir myapp
+2. cd myapp
+3. npm init
+4. npm install express --save
+5. npm install pg-promise
+6. npm install bluebird
 
-- cd myapp
+`Why use [bluebird](https://github.com/petkaantonov/bluebird) ?`
+`Bluebird is a Promise/A+ compliant lib.`
+`Speed processing: very high`
 
-- npm init
 
-- npm install express --save
-
-- npm install pg-promise
-
-- npm install bluebird
-
-`Why use bluebird?
-
-Bluebird is a Promise/A+ compliant lib.
-
-Speed processing: very high`
 
 
 
